@@ -1,3 +1,6 @@
+# DEPRECATED
+This repository was replaced by https://github.com/guilhermelemmi/react-blackjack-final, which contains tests and other features missing here.
+
 # react-blackjack
 
 This is a basic implementation of the Blackjack game using React!
